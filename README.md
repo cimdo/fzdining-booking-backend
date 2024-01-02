@@ -8,7 +8,7 @@ Follow these steps to set up and run the backend server:<br/>
 1. Clone the Repository:<br/>
 
 `git clone https://github.com/cimdo/fzdining-booking-backend.git`<br/>
-`cd restaurant-booking-backend`<br/>
+`cd fzdining-booking-backend`<br/>
 
 
 2. Install Dependencies:<br/>
